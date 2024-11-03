@@ -8,5 +8,16 @@ Basic:
 
 ·Cyber passer-by, just looking with little purpose. Trying to commit projects I'm interseted.
 
+Programming:
+
+Now mainly studing C++, but I'm also interseted in Python and Swift.
+
+Daliy:
+
+Music game player, such as Phigros, Muse Dash, Milthm, Arcaea...
+
+Contributions:
+
+Not Yet. :(
 
 To be continued...
