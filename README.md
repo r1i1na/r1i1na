@@ -10,7 +10,7 @@ Basic:
 
 Programming:
 
-Now mainly studing C++, but I'm also interseted in Python and Swift.
+Now mainly studying C++, but I'm also interseted in Python and Swift.
 
 Daliy:
 
