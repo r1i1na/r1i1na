@@ -1,4 +1,6 @@
-A self-introduction, not so fromal.
+# A self-introduction, not so fromal.
+
+Temporary blog: https://r1i1na.github.io
 
 Basic:
 
