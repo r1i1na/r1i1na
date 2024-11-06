@@ -8,7 +8,7 @@ Basic:
 
 ·Now studying `Computer Science` at `The University of Sydney`. ~~Feel free to meet me~~.
 
-·Cyber passer-by, just looking with `little` purpose. Trying to commit projects I'm interseted.
+·Cyber passer-by, just looking with `little` purpose. Trying to contribute to projects I'm interseted.
 
 Programming:
 
