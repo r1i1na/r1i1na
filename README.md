@@ -1,6 +1,8 @@
 # A self-introduction, `not` so fromal.
 
-`Temporary` blog: https://r1i1na.github.io
+`Temporary blog:` https://r1i1na.github.io
+
+Preferred languages:`中文`/`English`
 
 Basic:
 
