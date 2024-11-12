@@ -8,7 +8,7 @@ Basic:
 
 ·Rina, full name is `Malody Rin`, my preferred name is `Rin`.
 
-·Now studying `Computer Science` at `The University of Sydney`. ~~Feel free to meet me~~.
+·From `China Mainland`, Now studying `Computer Science` at `The University of Sydney`. ~~Feel free to meet me~~.
 
 ·Cyber passer-by, just looking with `little` purpose. Trying to contribute to projects I'm interseted.
 
