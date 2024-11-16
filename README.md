@@ -1,4 +1,4 @@
-# A self-introduction, `not` so fromal.
+# A self-introduction, `not` so formal.
 
 Blog: https://r1n.top
 
