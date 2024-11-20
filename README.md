@@ -2,7 +2,7 @@
 
 Blog: https://r1n.top
 
-Preferred languages:`中文`/`English`
+Preferred languages:zh_CN / en-au
 
 Basic:
 
@@ -16,4 +16,4 @@ Programming:
 
 Now mainly studying `C++`, but I'm also interseted in `Python` and `Swift`.
 
-For `full version` of self-introduction, visit `my blog`. (Only provide `中文`）
+For `full version` of self-introduction, visit `my blog`. (zh_CN Only)
