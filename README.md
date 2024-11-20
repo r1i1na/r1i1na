@@ -2,7 +2,7 @@
 
 Blog: https://r1n.top
 
-Preferred languages:zh_CN / en-au
+Preferred languages: zh_CN / en-au
 
 Basic:
 
