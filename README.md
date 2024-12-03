@@ -6,7 +6,7 @@
 
 基本
 
-· 我的英文全名是 `Malody Rin`，你可以直接叫我 `Rin`。
+· 我的英文全名是 `Eureka Rin`，你可以直接叫我`Rin`或者`Eureka`。
 
 · 来自`中国大陆`，目前正在`悉尼大学`学习`计算机科学`。~~Feel free to meet me~~.
 
