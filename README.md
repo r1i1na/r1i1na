@@ -1,19 +1,19 @@
-# A self-introduction, `not` so formal.
+# 一个非正式的自我介绍
 
-Blog: https://r1n.top
+小博客: https://r1n.top
 
-Preferred languages: zh_CN / en-au
+语言 / Languages: 中文 / English
 
-Basic:
+基本
 
-·Rina, full name is `Malody Rin`, my preferred name is `Rin`.
+· 我的英文全名是 `Malody Rin`，你可以直接叫我 `Rin`。
 
-·From `China Mainland`, Now studying `Computer Science` at `The University of Sydney`. ~~Feel free to meet me~~.
+· 来自`中国大陆`，目前正在`悉尼大学`学习`计算机科学`。~~Feel free to meet me~~.
 
-·Cyber passer-by, just looking with `little` purpose. Trying to contribute to projects I'm interseted.
+· 赛博路人一个，好像什么都会一点，但是又很菜那种（
 
-Programming:
+Programming Languages:
 
-Now mainly studying `C++`, but I'm also interseted in `Python` and `Swift`.
+主要是`C++`，当然还有`Python`，`Swift`和`JavaScript`，以及一大堆奇奇怪怪的其他的。
 
-For `full version` of self-introduction, visit `my blog`. (zh_CN Only)
+完整版直接看博客就行。
