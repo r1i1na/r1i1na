@@ -6,12 +6,12 @@ Blog: https://r1n.top
 
 Basic:
 
-· My English name is `Eureka Rin`，you can call me `Rin` or `Eureka`。
+· My English name is `Eureka Rin`，you can call me `Rin` or `Eureka`.
 
-· From`China`，Now learning `Computer Science` at `The University of Sydney`。~~Feel free to meet me~~.
+· From`China`，Now learning `Computer Science` at `The University of Sydney`.~~Feel free to meet me~~.
 
 · Cyber-passer-by
 
 Programming Languages:
 
-Mainly `C++`，also Python`，`Swift`, `JavaScript`，and others.
+Mainly `C++`, also `Python`, `Swift`, `JavaScript`, and others.
