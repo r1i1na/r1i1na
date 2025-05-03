@@ -6,7 +6,7 @@ Blog: https://r1n.top
 
 Basic:
 
-· My English name is `Chokyo Ryu`，you can call me `Rin` or `Eureka`.
+· My English name is `Chokyo Ryu`，you can call me `Ryu`.
 
 · From`China`，Now learning `Computer Science` at `The University of Sydney`.~~Feel free to meet me~~.
 
