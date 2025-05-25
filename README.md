@@ -6,7 +6,7 @@ Blog: https://r1n.top
 
 Basic:
 
-· My English name is `Chokyo Ryu`，you can call me `Ryu`.
+· My English name is `Rine Otsuki`，you can call me `Rine`.
 
 · From`China`，Now learning `Computer Science` at `The University of Sydney`.~~Feel free to meet me~~.
 
